@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gist.github.com/14f6be6a48a198f33a3c.git"
+    "url": "git+ssh://git@github.com:cleong14/throwing-darts.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gist.github.com/14f6be6a48a198f33a3c"
+    "url": "https://git@github.com:cleong14"
   },
-  "homepage": "https://gist.github.com/14f6be6a48a198f33a3c"
+  "homepage": "https://git@github.com:cleong14"
 }
