@@ -1,0 +1,29 @@
+{
+  "name": "throwing-darts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "darts.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/14f6be6a48a198f33a3c.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/14f6be6a48a198f33a3c"
+  },
+  "homepage": "https://gist.github.com/14f6be6a48a198f33a3c"
+}
